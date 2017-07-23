@@ -1,6 +1,10 @@
 PiMenu
 ======
 
+This is a copy (not a fork) of the repro at https://github.com/splitbrain/pimenu
+
+---
+
 This is a simple fullscreen menu system written in Python TKInter. It has been
 developed with a Raspberry Pi Touchscreen in mind and is optimized for small
 screens (320x240 is assumed).
