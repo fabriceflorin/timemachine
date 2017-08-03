@@ -2,6 +2,8 @@ PiMenu
 ======
 
 This is a copy (not a fork) of the repro at https://github.com/splitbrain/pimenu
+A nice description and hacking of this code can be found here:
+http://www.raspberry-pi-geek.com/Archive/2014/08/Adapting-to-a-small-touchscreen-monitor-with-PiMenu
 
 ---
 
